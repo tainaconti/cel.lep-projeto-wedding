@@ -1,0 +1,178 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    background-color: #FAF1E6;
+
+}
+
+
+.primeiraClasse {
+    background-image: url(/img/casal\ jj.jfif);
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+
+
+}
+
+.segundaClasse {
+    text-align: center;
+    letter-spacing: 6px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+h1{
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    font-size: 80px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: 400;
+    margin: 10px;
+}
+
+h2 {
+    color: #fff;
+    font-family: "Raleway", sans-serif;
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 30px;
+    font-style: italic;
+}
+
+b{
+    color: #fff;
+    font-weight: bolder;
+    font-size: 20px;
+    font-style: normal;
+
+}
+
+.textoCor {
+    color: #4A403A;
+    font-style: normal;
+    font-size: 36px;
+    box-sizing: inherit;
+    font-family: "Raleway", sans-serif;
+    margin-bottom: 40px;
+    text-align: center;
+
+}
+
+.aboutUs {
+    color: #4A403A;
+    text-align:justify;
+    font-style: italic;
+    letter-spacing: 2px;
+    display: block;
+    margin-top: 60px;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.about {
+    border-style: none;
+    vertical-align: middle; 
+    box-sizing: inherit;
+    border-radius: 4px;
+    width: 100%;
+
+}
+
+.botaoDetails {
+    text-align: center;
+}
+
+.botao{
+    color: #fff;
+    background-color: #000;
+    border-radius: 4px;
+    padding: 15px;
+    font-size: 15px;
+    text-decoration:none;
+    font-style: normal;
+}
+
+.invite {
+    background-image: url(/img/photo-1519741497674-611481863552.jfif);
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+
+.textoInvite {
+    color: #fff;
+    text-align: center;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-family: "Raleway", sans-serif;
+    letter-spacing: 6px;
+}
+
+.wedding {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 980px;
+
+
+}
+.textowd{
+    color: #4A403A;
+    font-family: 'Crimson Text', serif;
+    font-style: normal;
+    font-size: 35px;
+    margin-bottom: 30px;
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.thewedding {
+    border-style: none;
+    vertical-align: middle;
+    width: 100%;
+    filter: grayscale(50%);
+    margin: 64px 0;
+    margin-top: 35px;
+    color: #4A403A;
+
+}
+
+.weddingfooter {
+    display: table;
+    clear: both;
+    box-sizing: inherit;
+    color: #4A403A;
+
+    
+}
+
+.when {
+    width: 300%;
+    text-align: center;
+    float: left;
+    font-family: "Raleway", sans-serif;
+    color: #4A403A;
+
+
+}
+
+.where{
+    width: 400%;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    color: #4A403A;
+
+}
